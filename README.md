@@ -6,7 +6,7 @@ I primarily work on hands-on cybersecurity labs involving SIEM log analysis, Act
 
 This profile showcases the projects, labs, and experiments I'm working on as I continue preparing for cybersecurity, helpdesk, and IT internship opportunities.
 
-<h2>👨‍💻 Cybersecurity and Helpdesk Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Helpdesk Projects/Labs:</h2>
 
   - [Helpdesk Home Lab – Windows Server 2022 Installation & Virtual Environment Setup](https://github.com/royalexvo/SIEM-Log-Analysis-Project-Splunk)
 
