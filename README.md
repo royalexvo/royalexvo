@@ -13,14 +13,14 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
 
 <h2>📄 Certifications:</h2>
 
-  - [CompTIA A+](https://github.com/royalexvo/LABURLHERE)
-  - [CompTIA Project+](https://github.com/royalexvo/LABURLHERE)
-  - [CompTIA Network+](https://github.com/royalexvo/LABURLHERE)
-  - [CompTIA Security+](https://github.com/royalexvo/LABURLHERE)
+  - [CompTIA A+](https://www.credly.com/badges/4a12b72a-4c3a-476f-99a4-ad2c2cf54b01/public_url)
+  - [CompTIA Project+](https://www.credly.com/badges/19b4c3be-ade8-4692-95f3-b696097eef99/public_url)
+  - [CompTIA Network+](https://www.credly.com/badges/c71143cd-c814-48a2-8b7f-498cc7cc4da1/public_url)
+  - [CompTIA Security+](https://www.credly.com/badges/f0191a3b-32d4-4ed1-97b8-31982d5114c9/public_url)
   - [ISC2 SSCP](https://github.com/royalexvo/LABURLHERE)
-  - [ITIL V4](https://github.com/royalexvo/LABURLHERE)
+  - [ITIL V4](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNIbTz1IwR0%2bSnLAYp5eglaV)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
