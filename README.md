@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**royalexvo/royalexvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roy, an aspiring cybersecurity professional focused on becoming a Security Operations Center (SOC) Analyst.
 
-Here are some ideas to get you started:
+I primarily work on hands-on cybersecurity labs involving SIEM log analysis, Active Directory environments, threat detection, and defensive security practices. I'm currently a student at WGU pursuing cybersecurity certifications while developing practical experience through security and helpdesk-focused projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile showcases the projects, labs, and experiments I'm working on as I continue preparing for cybersecurity, helpdesk, and IT internship opportunities.
+
+<h2>👨‍💻 Cybersecurity and Helpdesk Projects:</h2>
+
+  - [SIEM & Log Analysis (Splunk) — Simulated SOC Environment](https://github.com/royalexvo/SIEM-Log-Analysis-Project-Splunk)
+  - [Active Directory Home Lab](https://github.com/royalexvo/SIEM-Log-Analysis-Project-Splunk)
+
+<h2>📄 Certifications:</h2>
+
+  - [CompTIA A+](https://github.com/royalexvo/LABURLHERE)
+  - [CompTIA Project+](https://github.com/royalexvo/LABURLHERE)
+  - [CompTIA Network+](https://github.com/royalexvo/LABURLHERE)
+  - [CompTIA Security+](https://github.com/royalexvo/LABURLHERE)
+  - [ISC2 SSCP](https://github.com/royalexvo/LABURLHERE)
+  - [ITIL V4](https://github.com/royalexvo/LABURLHERE)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/roy-vo/
