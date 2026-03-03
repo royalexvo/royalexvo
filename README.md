@@ -8,7 +8,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
 
 <h2>👨‍💻 Cybersecurity and Helpdesk Projects/Labs:</h2>
 
-  - [Helpdesk Home Lab – Windows Server 2022 Installation & Virtual Environment Setup](https://github.com/royalexvo/SIEM-Log-Analysis-Project-Splunk)
+  - [Helpdesk Home Lab – Windows Server 2022 Installation & Virtual Environment Setup](https://github.com/royalexvo/Helpdesk-Home-Lab-Windows-Server-2022-Installation-Virtual-Environment-Setup)
 
 <h2>📄 Certifications:</h2>
 
