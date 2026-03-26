@@ -9,6 +9,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
 <h2>👨‍💻 Cybersecurity and Helpdesk Projects/Labs:</h2>
 
   - [Helpdesk Home Lab – Windows Server 2022 Installation & Virtual Environment Setup](https://github.com/royalexvo/Helpdesk-Home-Lab-Windows-Server-2022-Installation-Virtual-Environment-Setup)
+  - [Helpdesk Home Lab – Active Directory Setup & Domain Controller Promotion (Windows Server 2022)](https://github.com/royalexvo/HelpDesk-Home-Lab-Active-Directory-Setup-Domain-Controller-Promotion-Windows-Server-2022-.git)
 
 <h2>📄 Certifications:</h2>
 
