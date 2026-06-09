@@ -21,7 +21,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
   - [CompTIA Network+](https://www.credly.com/badges/c71143cd-c814-48a2-8b7f-498cc7cc4da1/public_url)
   - [CompTIA Security+](https://www.credly.com/badges/f0191a3b-32d4-4ed1-97b8-31982d5114c9/public_url)
   - [CompTIA Data+](https://www.credly.com/badges/96d0d43b-22fe-4c1e-be0a-91409b594b48/public_url)
-  - [ISC2 SSCP](https://github.com/royalexvo/LABURLHERE)
+  - [ISC2 SSCP](https://www.credly.com/badges/3d4a3155-ff0d-4c00-8cef-e7d94e98d539/public_url)
   - [ITIL V4](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNIbTz1IwR0%2bSnLAYp5eglaV)
 
 <h2> Connect with me:</h2>
