@@ -12,7 +12,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
   - [Helpdesk Home Lab – Active Directory Setup & Domain Controller Promotion (Windows Server 2022)](https://github.com/royalexvo/HelpDesk-Home-Lab-Active-Directory-Setup-Domain-Controller-Promotion-Windows-Server-2022-.git)
   - [Helpdesk Home Lab – Active Directory User Management & Guest Additions (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-User-Management-Guest-Additions-Windows-Server-2022-.git)
   - [Helpdesk Home Lab – Windows 11 Domain Join & Network Configuration (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Windows-11-Domain-Join-Network-Configuration-Windows-Server-2022-.git)
-  - [Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-.git)
+  - [Helpdesk Home Lab - Active Directory Account Troubleshooting and GPO (Windows Server 2022))](https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-.git)
 
 <h2>📄 Certifications:</h2>
 
