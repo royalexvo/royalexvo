@@ -17,6 +17,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
   - [Helpdesk Home Lab - Shared Folders, Network Drives, & NTFS Permissions (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Shared-Folders-Network-Drives-NTFS-Permissions-Windows-Server-2022-.git)
   - [Helpdesk Home Lab – Group Policy Management & User Restrictions (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Group-Policy-Management-User-Restrictions-Windows-Server-2022-.git)
   - [Helpdesk Home Lab – Active Directory Permissions & Security Groups (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Permissions-Security-Groups-Windows-Server-2022-.git)
+  - [Helpdesk Home Lab – Action1 Agent Deployment & Active Directory Integration (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-.git)
 
 <h2>📄 Certifications:</h2>
 
