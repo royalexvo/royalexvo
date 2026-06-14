@@ -15,6 +15,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
   - [Helpdesk Home Lab - Active Directory Account Troubleshooting & GPO (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Active-Directory-Account-Troubleshooting-GPO-Windows-Server-2022-.git)
   - [Helpdesk Home Lab - Patch Management, Action1, Compliance, & Reporting (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022.git)
   - [Helpdesk Home Lab - Shared Folders, Network Drives, & NTFS Permissions (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Shared-Folders-Network-Drives-NTFS-Permissions-Windows-Server-2022-.git)
+  - [Helpdesk Home Lab – Group Policy Management & User Restrictions (Windows Server 2022)](https://github.com/royalexvo/Helpdesk-Home-Lab-Group-Policy-Management-User-Restrictions-Windows-Server-2022-.git)
 
 <h2>📄 Certifications:</h2>
 
