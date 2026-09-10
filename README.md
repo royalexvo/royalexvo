@@ -31,8 +31,6 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
   - [ITIL 4 Foundation](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNIbTz1IwR0%2bSnLAYp5eglaV)
   - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000686781/7kbkkck7fe)
 
-<h2> Connect with me:</h2>
+<h2> Connect & Profiles:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/roy-vo/
+🔗 LinkedIn · 💻 GitHub · ✉️ Email
