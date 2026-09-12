@@ -33,12 +33,9 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
 
 <h2> Connect & Profiles:</h2>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/roy-vo/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
 </a>
-<a href="YOUR_GITHUB_URL">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
-</a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Royalexvo@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
 </a>
