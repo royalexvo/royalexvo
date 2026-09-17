@@ -9,7 +9,7 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
 <h2>🎭 Cybersecurity Projects/Labs:</h2>
 
   - [Cybersecurity Project – Active Directory Attack & Defense](https://github.com/royalexvo/Cybersecurity-Project-Active-Directory-Attack-Defense.git)
-  - [Cybersecurity Project – Splunk SIEM Detection & SOAR Automation](https://github.com/royalexvo/HelpDesk-Home-Lab-Active-Directory-Setup-Domain-Controller-Promotion-Windows-Server-2022-.gi)
+  - [Cybersecurity Project – Splunk SIEM Detection & SOAR Automation](https://github.com/royalexvo/Cybersecurity-Project-Splunk-SIEM-Detection-SOAR-Automation.git)
 
 <h2>👨‍💻 Helpdesk Projects/Labs:</h2>
 
