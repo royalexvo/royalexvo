@@ -8,7 +8,8 @@ This profile showcases the projects, labs, and experiments I'm working on as I c
 
 <h2>🎭 Cybersecurity Projects/Labs:</h2>
 
-  - 
+  - [Cybersecurity Project – Active Directory Attack & Defense](https://github.com/royalexvo/Helpdesk-Home-Lab-Windows-Server-2022-Installation-Virtual-Environment-Setu)
+  - [Cybersecurity Project – Splunk SIEM Detection & SOAR Automation](https://github.com/royalexvo/HelpDesk-Home-Lab-Active-Directory-Setup-Domain-Controller-Promotion-Windows-Server-2022-.gi)
 
 <h2>👨‍💻 Helpdesk Projects/Labs:</h2>
 
