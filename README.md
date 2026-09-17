@@ -2,9 +2,7 @@ Hey there 👋
 
 I'm Roy, an aspiring cybersecurity professional focused on becoming a Security Operations Center (SOC) Analyst.
 
-I primarily work on hands-on cybersecurity labs involving SIEM log analysis, Active Directory environments, threat detection, and defensive security practices. I'm currently a student at WGU pursuing cybersecurity certifications while developing practical experience through security and helpdesk-focused projects.
-
-This profile showcases the projects, labs, and experiments I'm working on as I continue preparing for cybersecurity, helpdesk, and IT internship opportunities.
+I primarily work on hands-on cybersecurity labs involving SIEM log analysis, Active Directory environments, threat detection, and defensive security practices. I'm a recent WGU graduate with a degree in Cybersecurity and Information Assurance and relevant industry certifications. My projects and labs allow me to build practical experience across both cybersecurity and helpdesk environments.
 
 <h2>🎭 Cybersecurity Projects/Labs:</h2>
 
