@@ -1,4 +1,4 @@
-Hey there 👋 
+Hey there 👋
 
 I'm Roy, an aspiring cybersecurity professional focused on becoming a Security Operations Center (SOC) Analyst.
 
