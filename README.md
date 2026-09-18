@@ -4,7 +4,7 @@ I'm Roy, an aspiring cybersecurity professional focused on becoming a Security O
 
 I primarily work on hands-on cybersecurity labs involving SIEM log analysis, Active Directory environments, threat detection, and defensive security practices. I'm a recent WGU graduate with a degree in Cybersecurity and Information Assurance and relevant industry certifications. My projects and labs allow me to build practical experience across both cybersecurity and helpdesk environments.
 
-<h2>🎭 Cybersecurity Projects/Labs:</h2>
+<h2>🛡️ Cybersecurity Projects/Labs:</h2>
 
   - [Cybersecurity Project – Active Directory Attack & Defense](https://github.com/royalexvo/Cybersecurity-Project-Active-Directory-Attack-Defense.git)
   - [Cybersecurity Project – Splunk SIEM Detection & SOAR Automation](https://github.com/royalexvo/Cybersecurity-Project-Splunk-SIEM-Detection-SOAR-Automation.git)
